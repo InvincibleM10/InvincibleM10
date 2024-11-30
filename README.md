@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Meran
+- 👀 I’m interested in Data Science
+- 🌱 I’m currently learning C++
+- 😄 Pronouns: She/They
+- ⚡ Fun fact: I am a player
